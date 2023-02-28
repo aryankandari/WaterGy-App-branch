@@ -106,7 +106,7 @@ class _LoginPageState extends State<LoginPage> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
           const SizedBox(
-            height: 350, //gap
+            height: 50, //gap
           ),
           // ignore: avoid_unnecessary_containers
           Container(
